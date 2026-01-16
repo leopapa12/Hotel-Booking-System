@@ -1,0 +1,14 @@
+{
+  "Rooms": [
+    {
+      "RoomId": 101,
+      "RoomNumber": "101",
+      "Type": "Single",
+      "PricePerNight": 80.00,
+      "Capacity": 1,
+      "Floor": 1,
+      "Amenities": [ "WiFi", "TV", "AC" ],
+      "IsAvailable": true
+    }
+  ]
+}

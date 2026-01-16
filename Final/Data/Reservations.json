@@ -1,0 +1,14 @@
+{
+  "Reservations": [
+    {
+      "ReservationId": 1,
+      "UserId": 1,
+      "RoomId": 101,
+      "CheckInDate": "2025-10-01",
+      "CheckOutDate": "2025-10-05",
+      "TotalPrice": 320.00,
+      "Status": "Confirmed",
+      "BookingDate": "2025-09-29"
+    }
+  ]
+}
